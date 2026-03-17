@@ -36,6 +36,8 @@ Students often look for budget-friendly cafes to hang out or study.
 
 👉 Explore top cafes in Kakinada
 
+---
+
 ***📝 Blog 3: Best Cafe for Hangouts in Kakinada***
 
 **Introduction**
@@ -53,6 +55,8 @@ Looking for the perfect hangout spot? Cafes are the best choice.
 **Internal Link**
 
 👉 Visit: Best Cafe in Kakinada
+
+---
 
 ***📝 Blog 4: Cafe Menu Guide – What to Try in Kakinada Cafes***
 **Popular Items**

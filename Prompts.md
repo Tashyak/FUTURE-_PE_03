@@ -5,8 +5,11 @@
 You are an SEO content strategist and blog writer.
 
 Create a long-form SEO blog for:
+
 Business: Cafe
+
 Location: Kakinada
+
 Primary Keyword: [Keyword]
 
 Requirements:
@@ -24,8 +27,11 @@ Requirements:
 ## 🔹 2. Supporting Blog Prompt
 
 Create a supporting SEO blog for:
+
 Topic: [Subtopic]
+
 Main Keyword: [Keyword]
+
 Location: Kakinada
 
 Requirements:
@@ -41,7 +47,9 @@ Requirements:
 ## 🔹 3. Content Cluster Generator Prompt
 
 Generate a content cluster for:
+
 Business: Cafe
+
 Location: Kakinada
 
 Output:
@@ -56,7 +64,9 @@ Output:
 ## 🔹 4. Local SEO Optimization Prompt
 
 Optimize the following blog for local SEO:
+
 City: Kakinada
+
 Service: Cafe
 
 Requirements:

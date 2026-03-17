@@ -69,13 +69,14 @@ To design a reusable prompt workflow that can:
 ---
 
 ## 📂 Project Structure
+```
 📁 SEO-Content-System
 ├── README.md
 ├── prompts/
 ├── pillar-blog/
 ├── supporting-blogs/
 └── documentation/
-
+```
 ---
 
 ## ✨ Key Features

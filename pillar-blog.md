@@ -1,4 +1,5 @@
 ***☕ Best Cafe in Kakinada – Menu, Prices & Best Hangout Spot***
+
 **Introduction**
 
 Looking for the best cafe in Kakinada to relax, work, or hang out with friends? Whether you're a student, a working professional, or just a coffee lover, finding the right cafe can make all the difference.
@@ -76,10 +77,12 @@ Many cafes in Kakinada provide:
 **FAQs**
 
 --Q: What is the best cafe in Kakinada for students?
-Cafes with Wi-Fi, affordable pricing, and a calm environment are ideal.
+
+-Cafes with Wi-Fi, affordable pricing, and a calm environment are ideal.
 
 --Q: Are cafes in Kakinada expensive?
-No, many cafes offer budget-friendly options.
+
+-No, many cafes offer budget-friendly options.
 
 **Conclusion**
 

@@ -7,46 +7,47 @@ Kakinada has a growing cafe culture, offering everything from cozy coffee spots 
 
 **Why Choose a Good Cafe in Kakinada**
 
-1.Comfortable ambiance
+- Comfortable ambiance
   
-2.Quality coffee and food
+- Quality coffee and food
   
-3.Affordable pricing
-  4.Good for meetings and study
+- Affordable pricing
+
+- Good for meetings and study
 
 **Popular Menu Items in Cafes**
 
 Beverages
 
--Espresso, Cappuccino, Latte
+- Espresso, Cappuccino, Latte
   
--Cold Coffee, Milkshakes
+- Cold Coffee, Milkshakes
   
--Fresh juices
+- Fresh juices
 
 **Snacks & Food**
 
--Sandwiches
+- Sandwiches
   
- - Burgers & Fries
+- Burgers & Fries
   
-  -Pasta & Pizza
+- Pasta & Pizza
 
 **Desserts**
 
-  -Brownies
+- Brownies
   
-  -Cakes
+- Cakes
   
-  -Ice creams
+- Ice creams
 
 **Cafe Pricing in Kakinada**
 
--Coffee: ₹80 – ₹200
+- Coffee: ₹80 – ₹200
 
--Snacks: ₹100 – ₹300
+- Snacks: ₹100 – ₹300
 
--Combos: ₹200 – ₹500
+- Combos: ₹200 – ₹500
 
 Affordable cafes make it easy for students and families to enjoy quality time.
 
@@ -54,23 +55,23 @@ Affordable cafes make it easy for students and families to enjoy quality time.
 
 Many cafes in Kakinada provide:
 
--Free Wi-Fi
+- Free Wi-Fi
 
--Charging ports
+- Charging ports
 
--Quiet corners for study
+- Quiet corners for study
 
--Group seating
+- Group seating
 
 **How to Choose the Best Cafe**
 
--Check reviews online
+- Check reviews online
 
--Look at menu variety
+- Look at menu variety
 
--Visit for ambiance
+- Visit for ambiance
 
--Compare prices
+- Compare prices
 
 **FAQs**
 

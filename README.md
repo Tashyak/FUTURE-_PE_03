@@ -75,7 +75,9 @@ To design a reusable prompt workflow that can:
 ├── prompts/
 ├── pillar-blog/
 ├── supporting-blogs/
-└── documentation/
+├──SEO-blog-structure/
+└──local-SEO-adaptation/
+ 
 ```
 ---
 
